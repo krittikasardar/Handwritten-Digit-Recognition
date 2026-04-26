@@ -54,5 +54,4 @@ This project is based on handwritten digit image data, commonly represented usin
 Handwritten-Digit-Recognition
 │
 ├── handwritten_digit_recognition.ipynb
-├── README.md
-└── requirements.txt
+└── README.md
